@@ -31,7 +31,7 @@ A smart FAQ Chatbot that uses NLP techniques to understand user queries and resp
 - `ipywidgets`
 
 ## ▶️ Run It Now
-Open in Colab: [Click Here](https://colab.research.google.com/github/Suryatechtaki/codealpha_tasks/blob/main/Task_02_Chatbot/Chatbot_for_FAQs.ipynb)
+Open in Colab: [Click Here](https://colab.research.google.com/github/Suryatechtaki/CodeAlphaTasks/blob/main/Task_02_Chatbot/Chatbot_for_FAQs.ipynb)
 
 # 🧠 Object Detection and Tracking (Google Colab)
 
@@ -49,7 +49,7 @@ This project uses YOLOv8 to perform real-time object detection and tracking on v
 - `FFmpeg` (for video conversion in Colab)
 
 ## ▶️ Run It Now
-Open in Colab: [Click Here](https://colab.research.google.com/github/Suryatechtaki/codealpha_tasks/blob/main/Task_03_Object_Detection/object_detection.ipynb)
+Open in Colab: [Click Here](https://colab.research.google.com/github/Suryatechtaki/CodeAlphaTasks/blob/main/Task_03_Object_Detection/object_detection.ipynb)
 
 ---
 
